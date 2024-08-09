@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou @evellinmoura!
+# 👋 Olá, eu sou Evellin Moura!
 
 ## Sobre Mim
 Sou uma estudante apaixonada por tecnologia, atualmente focada em aprimorar minhas habilidades em **Front-End**. Tenho experiência em diversos projetos acadêmicos e pessoais que demonstram minha dedicação e habilidade em criar soluções eficientes e inovadoras.
