@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Olá, meu nome é Evellin Moura, sou estudante de Ciência da Computação e estou sempre em busca de aprender mais sobre tecnologia. Estou interessada em explorar novas ferramentas e conceitos para expandir meus conhecimentos e habilidades na área.</h2>
+<h2 align="left">Olá👋! Meu nome é Evellin Moura, sou estudante de Ciência da Computação e estou sempre em busca de aprender mais sobre tecnologia. Estou interessada em explorar novas ferramentas e conceitos para expandir meus conhecimentos e habilidades na área.</h2>
 
 ###
 
